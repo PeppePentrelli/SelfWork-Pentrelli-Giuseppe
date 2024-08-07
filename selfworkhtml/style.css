@@ -1,0 +1,44 @@
+h1 {
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: red;
+
+
+}
+
+h2,
+h3 {
+    color: rgb(62, 62, 241);
+}
+
+p {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.primasection {
+    background-color: yellow;
+}
+
+.primasection:hover {
+    background-color: grey;
+    color: yellow;
+}
+
+
+
+nav {
+    background-image: url(media\ selfworkhtml/man-593333_1280.jpg);
+    color: yellow;
+}
+
+li a {
+    color: yellow;
+}
+
+.contattotelefonico a {
+    color: yellow;
+}
